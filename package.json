@@ -1,0 +1,14 @@
+{
+  "name": "proyecto_backend_node_platzi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./api/index"
+  },
+  "author": "Patricio Contreras",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
